@@ -171,7 +171,7 @@ img {
 .destinos__elemento--boton,
 .ofertas__card--boton {
     border-radius: 8px;
-    background: var(--rojo, #B81515);
+    background: var(--rojo, #15b887);
     padding: 16px 48px;
     box-sizing: border-box;
     display: inline-block;
